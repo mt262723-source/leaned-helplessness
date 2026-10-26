@@ -1,0 +1,6 @@
+{
+  "name": "다시, 한 걸음 — 학습된 무기력과 그릿",
+  "description": "학습된 무기력의 원리를 이해하고, 2D 선택형 상황극을 통해 비관적 해석과 현실적 낙관성, 건강한 그릿을 배우는 심리학 교육 웹사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
